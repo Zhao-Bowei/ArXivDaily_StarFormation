@@ -5,10 +5,10 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 # Authentication for user filing issue (must have read/write access to repository to add issue to)
-USERNAME = 'olozhika'
+USERNAME = 'boweizhao'
 
 # The repository to add this issue to
-REPO_OWNER = 'olozhika'
+REPO_OWNER = 'boweizhao'
 REPO_NAME = 'ArXivDaily_StarFormation'
 
 # Set new submission url of subject
